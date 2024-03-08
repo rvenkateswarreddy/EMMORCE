@@ -1,0 +1,21 @@
+.divide {
+  flex-direction: column;
+}
+.transfer {
+  display: flex;
+  flex-direction: column;
+}
+.menubar {
+  display: flex;
+  flex-direction: column;
+}
+.maindivider {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+.logindivider {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
